@@ -1,0 +1,11 @@
+{
+  "open_machine": "Abrir Máquina de Lavar",
+  "menu_desc": "Coloca aqui a quantidade que pretendes lavar",
+  "menu_title": "Máquina de Lavar",
+  "quantity": "Quantidade",
+  "notification_title": "Máquina de Lavar",
+  "noti_invalid_quantity": "Não podes por uma quantidade negativa na máquina de lavar",
+  "noti_not_enough_money": "Sem dinheiro o suficiente!",
+  "noti_money_washed": "O dinheiro foi lavado com sucesso",
+  "washprogress_label": "A lavar o dinheiro..."
+}

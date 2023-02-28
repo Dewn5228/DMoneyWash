@@ -1,0 +1,11 @@
+{
+  "open_machine": "Open washing machine",
+  "menu_desc": "Put here the quantity that you want to wash",
+  "menu_title": "Washing Machine",
+  "quantity": "Quantity",
+  "notification_title": "Washing Machine",
+  "noti_invalid_quantity": "You can't put a negative quantity on de washing machine",
+  "noti_not_enough_money": "Not enought money!",
+  "noti_money_washed": "Money was washed successfully",
+  "washprogress_label": "Washing money..."
+}
