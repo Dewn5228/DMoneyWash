@@ -50,12 +50,12 @@ RegisterNetEvent('d-moneywash:moneywashed', function()
   })
 end)
 
-for k, v in pairs(Config.machineplaces) do
+for k, v in pairs(Config.Machines) do
   exports.ox_target:addBoxZone({
-    coords = v,
+    coords = v.coords,
     size = vec3(1, 1, 1),
     rotation = 10,
-    groups = 'restaurante',
+    groups = v.jobs,
     options = {
       {
         name = 'washing-machines',
